@@ -30,7 +30,6 @@ namespace Metotlar
                 Console.WriteLine(urun.Fiyati);
                 Console.WriteLine(urun.Aciklama);
                 Console.WriteLine("----------");
-                Console.WriteLine("denemeeee");
 
 
             }
